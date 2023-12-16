@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "Nisrine",
+      "password": "MTIzNDU=",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJuaXNyaW5lIiwiaWF0IjoxNTE2MjM5MDIyLCJleHAiOjE1MTYyMzkwMjIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODg4OC9hdXRoIiwiZmlyc3RuYW1lIjoiTmlzcmluZSIsImxhc3RuYW1lIjoiQU9NQVJJIiwiZW1haWwiOiJuLmFvbWFyaUBtdW5kaWFwb2xpcy5tYSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ._01eg7idh2nFtyqPq68e6JV-IfGD4KCEtVmj-p_NQZU"
+    },
+    {
+      "id": "userN",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyTiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsImZpcnN0bmFtZSI6IlVzZXIiLCJsYXN0bmFtZSI6IlVzZXIxIiwiZW1haWwiOiJ1c2VybkBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.Qtm7fimY8djDq8hHgdTVFEipGyXZJeX9fegiiSGIQP8"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": "4000",
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Smart Phone",
+      "price": 2000,
+      "checked": true
+    },
+    {
+      "name": "Ipad",
+      "price": "200900",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "id": 6,
+      "name": "HP Computer",
+      "price": "150000",
+      "checked": true
+    },
+    {
+      "name": "Iphone 15",
+      "price": "12000",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "DELL",
+      "price": "78900",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "LENOVO",
+      "price": "2000",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "name": "Samsung",
+      "price": "10000",
+      "checked": true,
+      "id": 10
+    }
+  ]
+}
