@@ -191,32 +191,32 @@ Cela initiera notre serveur API REST sur le port 8089. Nous avons la flexibilit√
 
 <h2 style="color: #6091da;">Pages Accessibles aux Utilisateurs Normaux</h2>
 <h4>Page d'authentification</h4>
-<img src="captures/auth_user.PNG">
+<img src="captures/auth_user.png">
 <h4>Page d'accueil</h4>
-<img src="captures/acceuil_user.PNG">
+<img src="captures/acceuil_user.png">
 <h4>Affichage des Produits</h4>
-<img src="captures/product_user.PNG">
+<img src="captures/product_user.png">
 <h4>Recherche des Produits</h4>
-<img src="captures/recherche_user.PNG">
+<img src="captures/recherche_user.png">
 <h4>Ajout d'un Produit</h4>
-<img src="captures/add_product_user.PNG">
+<img src="captures/add_product_user.png">
 
 <h2 style="color: #6091da;">Pages Accessibles aux Administrateurs</h2>
 <h4>Afficher la page d'authentification</h4>
-<img src="captures/auth_admin.PNG">
+<img src="captures/auth_admin.png">
 <h4>Afficher les Produits</h4>
-<img src="captures/product_admin.PNG">
+<img src="captures/product_admin.png">
 <h4>Rechercher les Produits</h4>
-<img src="captures/chercher_admin.PNG">
+<img src="captures/chercher_admin.png">
 <h4>Ajouter un Produit</h4>
-<img src="captures/add_product_admin.PNG">
+<img src="captures/add_product_admin.png">
 <img src="captures/new_product_admin.png">
 <h4>Modifier un Produit</h4>
-<img src="captures/edit_admin.PNG">
+<img src="captures/edit_admin.png">
 <img src="captures/save.png">
 <img src="captures/save2.png">
 <h4>Supprimer un Produit</h4>
-<img src="captures/delete_admin.PNG">
+<img src="captures/delete_admin.png">
 <img src="captures/delete.png">
 
 <h2 style="color: #6091da;">Conclusion</h2>
