@@ -173,7 +173,7 @@ Cela initiera notre serveur API REST sur le port 8089. Nous avons la flexibilit�
     Nous pouvons maintenant envoyer des requêtes HTTP à notre backend pour récupérer des données.Apres  l'importer du module correspondant
     dans le fichier <strong>app.module.ts</strong> de notre application Angular.
 </p>
-<img src="captures/json.PNG">
+<img src="captures/json.png">
 
 <h2 style="color: #6091da;"> Gestion des Droits d'Accès</h2>
 
