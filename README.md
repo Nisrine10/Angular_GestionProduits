@@ -182,12 +182,12 @@ Cela initiera notre serveur API REST sur le port 8089. Nous avons la flexibilit√
 <h4>Admin</h4>
 <img src="captures/token.png">
 <h4>User normal</h4>
-<img src="captures/token_user.PNG">
+<img src="captures/token_user.png">
 <p>L'installation du Base64 helper pour le codage et le decodage du password.</p>
 
-<img src="captures/base64_encoder.PNG">
+<img src="captures/base64_encoder.png">
 
-<img src="captures/base64_encoder2.PNG">
+<img src="captures/base64_encoder2.png">
 
 <h2 style="color: #6091da;">Pages Accessibles aux Utilisateurs Normaux</h2>
 <h4>Page d'authentification</h4>
